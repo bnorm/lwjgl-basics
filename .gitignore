@@ -22,8 +22,13 @@ local.properties
 .settings/
 .loadpath
 
+# IntelliJ ignores
+*.iml
+
 # External tool builders
 .externalToolBuilders/
+build/
+.gradle/
 
 # Locally stored "Eclipse launch configurations"
 *.launch
